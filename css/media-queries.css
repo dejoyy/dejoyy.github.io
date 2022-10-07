@@ -14,10 +14,20 @@ body {
 
 @media only screen and (max-width: 480px) {
 	.textcenter{
-		padding-top: 0px;
+		padding-top: 40px;
 	} 
 	body {
 		background-image: url("../image/fon/fonmini.jpg");
 	}
-
+	.button {
+  		text-decoration: none;
+  		display: inline-block;
+  		margin: 10px 20px;
+  		padding: 10px 40px;
+ 		position: relative;
+ 		border: 2px solid #f1c40f;
+ 		color: #f1c40f;
+ 		font-family: 'Montserrat', sans-serif;
+ 		transition: .4s;
+ 	}
 }
