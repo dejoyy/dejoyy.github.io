@@ -14,7 +14,7 @@ body {
 
 @media only screen and (max-width: 480px) {
 	.textcenter{
-		padding-top: 100px;
+		padding-top: 25px;
 	} 
 	body {
 		background-image: url("../image/fon/fonmini.jpg");
